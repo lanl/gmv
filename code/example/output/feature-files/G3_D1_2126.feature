@@ -1,0 +1,8 @@
+prodigal	0000ff
+corrected	ff0000
+
+G2_D7_0312	G2_D7_0312	-1	251	253	prodigal
+G3_D1_2126	G3_D1_2126	-1	398	400	prodigal
+G1_D2_0835	G1_D2_0835	-1	251	253	prodigal
+G4_D2_1666	G4_D2_1666	-1	398	400	prodigal
+G5_D2_2200	G5_D2_2200	-1	251	253	prodigal

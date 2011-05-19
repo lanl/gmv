@@ -1,0 +1,62 @@
+Total number of ortholog sets is 2795
+
+Number of ortholog sets with a common start is 2753
+Number of ortholog sets with prodigal start is 1856
+
+Number of ortholog sets with no common start is 42
+Orthologs with no common start are 
+G3_D1_0053
+G3_D1_0103
+G3_D1_0254
+G3_D1_0461
+G3_D1_0541
+G3_D1_0674
+G3_D1_0969
+G3_D1_1092
+G3_D1_1205
+G3_D1_1306
+G3_D1_1405
+G3_D1_1717
+G3_D1_1720
+G3_D1_1756
+G3_D1_1839
+G3_D1_2088
+G3_D1_2250
+G3_D1_2314
+G3_D1_2347
+G3_D2_0303
+G3_D2_0310
+G3_D2_0322
+G3_D2_0603
+G3_D2_0638
+G3_D2_0891
+G3_D2_0975
+G3_D2_0988
+G3_D2_1029
+G3_D2_1455
+G3_D2_1567
+G3_D2_1709
+G3_D2_1810
+G3_D2_1885
+G3_D2_1996
+G3_D2_2038
+G3_D2_2386
+G3_D2_2456
+G3_D2_2503
+G3_D2_2566
+G3_D2_2755
+G3_D2_2941
+G3_D2_3074
+
+Number of ortholog sets with 0 number of Prodigal starts is 440
+Number of ortholog sets with 1 number of Prodigal starts is 31
+Number of ortholog sets with 2 number of Prodigal starts is 35
+Number of ortholog sets with 3 number of Prodigal starts is 113
+Number of ortholog sets with 4 number of Prodigal starts is 278
+Number of ortholog sets with 5 number of Prodigal starts is 1856
+Total number of genes predicted is 13765
+Number of genes predicted for genome 266265 is 2753
+Number of genes predicted for genome 269482 is 2753
+Number of genes predicted for genome 271848 is 2753
+Number of genes predicted for genome 320372 is 2753
+Number of genes predicted for genome 398577 is 2753

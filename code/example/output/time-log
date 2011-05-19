@@ -1,0 +1,19 @@
+This file gives the time taken by each step in the pipeline in minutes
+
+Time take to create the initial working directory is 0.0333333333333333 minutes
+Time taken to create the input sequence files for prodigal is 0.0833333333333333 minutes
+Time taken to train prodigal is 3.01666666666667 minutes
+Time taken by Prodigal to predict genes is 3.08333333333333 minutes
+Time taken to postprocess prodigal protein files is 0.1 minutes
+Time taken to get all gene names for genomes is 0.0166666666666667 minutes
+Time taken to postprocess prodigal score files is 1.36666666666667 minutes 
+Time taken to create database file for BLAST is 0.0666666666666667 minutes
+Time taken to run BLAST is 505.683333333333 minutes 
+Time taken to compute percent identity is 1.45 minutes 
+Time taken to sort BALST results is 59.9333333333333 minutes 
+Time taken to generate the best possible gene pairs is 63.3333333333333 minutes 
+Time taken to generate orthologous sets of genes is 16.1333333333333 minutes 
+Time taken to create input files for alignment is 19.4 minutes 
+Time taken to compute muscle alignments is 212.5 minutes 
+Time taken to compute relative start sites is 5.03333333333333 minutes 
+Time taken to predict common start sites is 1.18333333333333 minutes 

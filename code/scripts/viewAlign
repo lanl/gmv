@@ -1,0 +1,10 @@
+#!/bin/tcsh
+
+set dir = $argv[1]
+set name = $argv[2]
+set alignFile = $dir/output/$name-orthologs-align.fasta
+set featureFile = $dir/feature-files/$name.feature
+setenv JVDIR ~jcohn/jalview
+setenv LIB $JVDIR/lib
+setenv JAVAHOME ~sindhu/java/jdk1.6.0_14
+$JAVAHOME/bin/java -Djava.ext.dirs=$LIB -cp $JVDIR/jalview.jar jalview.bin.Jalview -open $alignFile -features $featureFile
